@@ -1,0 +1,51 @@
+body{
+	background-color: #FFFDF7;
+	margin: 0px;
+
+}
+div.titulo{
+	background-color: #3E3E3E;
+    padding: 1px 0px;
+    min-height: 100%;
+    color: #FFFFFF;
+		}
+div.inteligencia{
+
+	background-color: #FFFDF7;
+	margin: 0 auto;
+    width: 80%;
+}
+div.margen{
+    padding: 1px 0px;
+    margin: 0 auto;
+    width: 95%;
+}
+div.autores{
+	font-family: Helvetica, Arial,sans-serif;
+	margin: 0 auto;
+    width: 80%;
+    text-align: center;
+}
+div.parrafo1{
+  margin-right: 40%;
+
+}
+h1{
+	font-family: Helvetica, Arial,sans-serif;
+	font-size: 30px;
+	text-align: center;
+    }
+h2{
+	font-family: Helvetica, Arial,sans-serif;
+	font-size: 25px;
+    }
+h3{
+	font-family: Helvetica, Arial,sans-serif;
+	font-size: 17px;
+    }
+p{
+	font-family: Helvetica, Arial,sans-serif;
+	font-size: 15px;
+	text-align: justify;
+	color: #535858;
+}
